@@ -1,0 +1,7 @@
+- menu
+- highscores
+- retry options
+- lives
+- other control schemes (keyboard instead of mouse)
+- skins
+- gamemodes
